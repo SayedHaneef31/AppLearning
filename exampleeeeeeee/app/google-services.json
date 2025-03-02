@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "782206511474",
+    "firebase_url": "https://examplekotlin-49c3b-default-rtdb.firebaseio.com",
+    "project_id": "examplekotlin-49c3b",
+    "storage_bucket": "examplekotlin-49c3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782206511474:android:a7d3052893b5e32c7515eb",
+        "android_client_info": {
+          "package_name": "com.inster.exampleeeeeeee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1xE1ftGUHYUdd34SrWygMXDNdo_LmDCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
